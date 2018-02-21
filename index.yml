@@ -1,0 +1,6 @@
+title: Mir Tour
+start: welcome/welcome-to-mir
+repo: dlang-tour/mir
+ordering:
+- welcome
+- dub
