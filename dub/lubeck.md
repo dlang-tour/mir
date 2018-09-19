@@ -19,7 +19,7 @@ backends are recommeded for Linux and Windows.
 
 ```d
 /+dub.sdl:
-dependency "lubeck" version="~>0.1"
+dependency "lubeck" version="~>1.0"
 +/
 import std.stdio;
 import mir.ndslice: magic, repeat, as, slice;
