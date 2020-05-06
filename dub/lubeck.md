@@ -19,11 +19,11 @@ backends are recommeded for Linux and Windows.
 
 ```d
 /+dub.sdl:
-dependency "lubeck" version="~>1.1"
+dependency "lubeck" version="~>1.3"
 +/
 import std.stdio;
 import mir.ndslice: magic, repeat, as, slice;
-import lubeck: mtimes;
+import kaleidic.lubeck: mtimes;
 
 void main()
 {
